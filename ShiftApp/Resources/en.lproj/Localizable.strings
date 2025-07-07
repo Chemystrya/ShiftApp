@@ -1,0 +1,31 @@
+/* 
+  Localizable.strings
+  ShiftApp
+
+  Created by Fedorova Maria on 01.07.2025.
+  
+*/
+
+// MARK: - Registration
+"Registration.registration" = "Регистрация";
+"Registration.username" = "Имя";
+"Registration.surname" = "Фамилия";
+"Registration.dateOfBirth" = "Ваша дата рождения:";
+"Registration.password" = "Пароль";
+"Registration.passwordMatches" = "Пароль совпадает ✅";
+"Registration.passwordDoesNotMatch" = "Пароль не совпадает ❌";
+"Registration.register" = "Зарегистрироваться";
+"Registration.confirmYourPassword" = "Подтвердите пароль";
+"Registration.oneDigit" = "∙ Одна цифра";
+"Registration.smallLetters" = "∙ Маленькие латинские буквы";
+"Registration.capitalLetters" = "∙ Большие латинские буквы";
+"Registration.eightChar" = "∙ Не менее 8 символов";
+
+// MARK: - Home
+"Home.greetings" = "Приветствие";
+"Home.welcome" = "Добро пожаловать, ";
+"Home.exclamation" = "! 💜";
+"Home.user" = "пользователь";
+"Home.products" = "Товары 🛍️";
+
+
